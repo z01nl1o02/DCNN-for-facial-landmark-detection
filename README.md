@@ -9,10 +9,6 @@
 
 # 实验结果
 
-$err = \sqrt{(x-x')^2 + (y-y')^2}$  
-
-if err > 0.05, it is one failure
-
 
 |网络名|error|failure|  
 |-----|-----|-----|  
